@@ -35,7 +35,7 @@ Aplikasi akan dijalankan pada simulator atau perangkat yang terhubung.
 
 Berikut adalah tampilan desain awal Zakat Manager:
 
-![Zakat Manager](G:\github\clone\zakat-manager\zalat_manager\lib\assets\make dashboard.png)
+![Zakat Manager]({https://drive.google.com/file/d/1yD0FB_PKxEYjiklcepOJo_pkLxizXPjZ/view?usp=sharing})
 
 ## Kontribusi
 
